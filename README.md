@@ -15,13 +15,23 @@ CS420_project
   
 # 3.implementation
   1. PCA + Weighted KNN
+     
      Run the follwing command:
+        
         python pca.py
+        
         python knn.py
+  
   2. Back propagation neural network
+     
      Run the follwing command:
+        
         python BP.py
+  
   3. CNN
+     
      Run the follwing command:
+        
         python LeNet-5.py
+        
         python Improved_LeNet-5.py

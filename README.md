@@ -18,20 +18,20 @@ CS420_project
      
      Run the follwing command:
         
-        python pca.py
+          python pca.py
         
-        python knn.py
+          python knn.py
   
   2. Back propagation neural network
      
      Run the follwing command:
         
-        python BP.py
+          python BP.py
   
   3. CNN
      
      Run the follwing command:
         
-        python LeNet-5.py
+          python LeNet-5.py
         
-        python Improved_LeNet-5.py
+          python Improved_LeNet-5.py
